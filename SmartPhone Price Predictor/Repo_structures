@@ -1,0 +1,9 @@
+smartphone-price-prediction/
+├─ README.md
+├─ train_and_save_model.py
+├─ predict_example.py
+├─ requirements.txt
+├─ .gitignore
+├─ data/
+│  └─ Sales.csv    # optional to include small sample
+└─ model/           # optional for storing model files (not in git)
